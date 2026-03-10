@@ -1,0 +1,18 @@
+[
+  {
+    "id": 2,
+    "name": "Twos",
+    "color": "#34d399",
+    "hint": "Think: Double the number!",
+    "sticker": "Twin Cherries",
+    "easyWin": true
+  },
+  {
+    "id": 7,
+    "name": "Sevens",
+    "color": "#fbbf24",
+    "hint": "Tip: Add 10, then subtract 3.",
+    "sticker": "Lucky Star",
+    "easyWin": false
+  }
+]
